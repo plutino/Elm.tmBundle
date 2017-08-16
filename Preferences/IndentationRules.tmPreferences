@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Metadata</string>
+	<string>Indentation Rules</string>
 	<key>scope</key>
 	<string>source.elm</string>
 	<key>settings</key>
@@ -18,27 +18,6 @@
     |\bof
     )
   \s*$</string>
-		<key>shellVariables</key>
-		<array>
-			<dict>
-				<key>name</key>
-				<string>TM_COMMENT_START</string>
-				<key>value</key>
-				<string>--</string>
-			</dict>
-			<dict>
-				<key>name</key>
-				<string>TM_COMMENT_START_2</string>
-				<key>value</key>
-				<string>{-</string>
-			</dict>
-			<dict>
-				<key>name</key>
-				<string>TM_COMMENT_END_2</string>
-				<key>value</key>
-				<string>-}</string>
-			</dict>
-		</array>
 	</dict>
 	<key>uuid</key>
 	<string>64598216-cf92-4b00-961f-2b1478921c3e</string>
